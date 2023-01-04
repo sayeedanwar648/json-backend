@@ -1,0 +1,10 @@
+{
+    "books":[
+        {
+            "id":1,
+            "name":"rich dad poor dad",
+            "author":"RT. Kiyosaki",
+            "category":"good,finance"
+        }
+    ]
+}
