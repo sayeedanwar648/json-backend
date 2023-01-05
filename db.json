@@ -1,18 +1,33 @@
 {
-    "books":[
-        {
-            "id":1,
-            "name":"rich dad poor dad",
-            "author":"RT. Kiyosaki",
-            "category":"good,finance"
-        }
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Tata",
+        "year": 2019,
+              "type":"Manual",
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 2,
+        "brand": "Tata",
+              "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000
+      }
     ],
-    "students":[
-        {
-            "id":1,
-            "name":"sayeed"
-            
-           
-        }
+  "wishlisted_cars": [
+      {
+        "id": 1,
+        "brand": "Tata",
+        "year": 2019,
+              "type":"Manual",
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
+      }
     ]
-}
+  }
