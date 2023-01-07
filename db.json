@@ -19,6 +19,21 @@
         "Price": 800000
       }
     ],
+    "users":[
+      {
+        "id":1
+        
+      }
+
+    ],
+    "tasks":[
+      {
+        "id":1,
+        "task":"hello"
+      }
+
+
+    ],
   "wishlisted_cars": [
       {
         "id": 1,
